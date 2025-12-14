@@ -1,0 +1,12 @@
+> **记录了Hany在CS61A的lecture上所讲的一段话，令我感触颇深 ：**  
+>  
+> "I think one of the greatest gifts in life  
+> is being able to wake up every day and do the things  
+> that you find fulfilling, that you're good at,  
+> that you're excited about.  
+> And by the way, to boot, somebody is willing to pay you to do them.  
+> It's an incredible gift."
+
+---
+
+愿我们都有醒来的理由，热爱的领域，并为之付出长久的努力
